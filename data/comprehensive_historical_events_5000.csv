@@ -1,0 +1,930 @@
+date,year,eventLabel,typeLabel,category,impact,source
+1915-01-01,1915,Início Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1915-01-01,1915,Consequências de Início Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1912-01-01,1912,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1914-01-01,1914,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1915-01-01,1915,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1917-01-01,1917,Fim Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1919-01-01,1919,Consequências de Fim Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1916-01-01,1916,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1918-01-01,1918,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1919-01-01,1919,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1940-01-01,1940,Início Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1940-01-01,1940,Consequências de Início Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1936-01-01,1936,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1939-01-01,1939,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1941-01-01,1941,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1942-01-01,1942,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1944-01-01,1944,Fim Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1945-01-01,1945,Consequências de Fim Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1944-01-01,1944,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1945-01-01,1945,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1950-01-01,1950,Guerra da Coreia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1951-01-01,1951,Consequências de Guerra da Coreia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1948-01-01,1948,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1950-01-01,1950,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1952-01-01,1952,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Crise de Suez,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1953-01-01,1953,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1958-01-01,1958,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1962-01-01,1962,Crise dos Mísseis Cubanos,Crise Nuclear,Crise Nuclear,Alto,Historical_Dataset_Comprehensive
+1962-01-01,1962,Consequências de Crise dos Mísseis Cubanos...,Crise Nuclear (Consequências),Crise Nuclear (Consequências),Médio,Historical_Dataset_Comprehensive
+1961-01-01,1961,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1962-01-01,1962,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1966-01-01,1966,Guerra dos Seis Dias,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1968-01-01,1968,Consequências de Guerra dos Seis Dias...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1966-01-01,1966,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1965-01-01,1965,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1968-01-01,1968,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Guerra do Yom Kippur,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1972-01-01,1972,Consequências de Guerra do Yom Kippur...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1976-01-01,1976,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1979-01-01,1979,Revolução Iraniana,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1978-01-01,1978,Consequências de Revolução Iraniana...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1978-01-01,1978,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1977-01-01,1977,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1980-01-01,1980,Guerra Irã-Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1979-01-01,1979,Consequências de Guerra Irã-Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Guerra das Malvinas,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1984-01-01,1984,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1985-01-01,1985,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Guerra do Golfo,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Consequências de Guerra do Golfo...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Dissolução da União Soviética,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1992-01-01,1992,Consequências de Dissolução da União Soviética...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Genocídio em Ruanda,Crise Humanitária,Crise Humanitária,Alto,Historical_Dataset_Comprehensive
+1994-01-01,1994,Consequências de Genocídio em Ruanda...,Crise Humanitária (Consequências),Crise Humanitária (Consequências),Médio,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Acordos de Dayton,Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Guerra do Kosovo,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Ataques de 11 de Setembro,Terrorismo Global,Terrorismo Global,Alto,Historical_Dataset_Comprehensive
+2001-01-01,2001,Consequências de Ataques de 11 de Setembro...,Terrorismo Global (Consequências),Terrorismo Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2003-01-01,2003,Invasão do Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+2002-01-01,2002,Consequências de Invasão do Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2003-01-01,2003,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2005-01-01,2005,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Primavera Árabe,Revoluções Regionais,Revoluções Regionais,Alto,Historical_Dataset_Comprehensive
+2011-01-01,2011,Consequências de Primavera Árabe...,Revoluções Regionais (Consequências),Revoluções Regionais (Consequências),Médio,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2013-01-01,2013,Crise da Crimeia,Conflito Internacional,Conflito Internacional,Alto,Historical_Dataset_Comprehensive
+2014-01-01,2014,Consequências de Crise da Crimeia...,Conflito Internacional (Consequências),Conflito Internacional (Consequências),Médio,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2015-01-01,2015,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2016-01-01,2016,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Pandemia COVID-19,Crise Global,Crise Global,Alto,Historical_Dataset_Comprehensive
+2019-01-01,2019,Consequências de Pandemia COVID-19...,Crise Global (Consequências),Crise Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Invasão da Ucrânia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+2021-01-01,2021,Consequências de Invasão da Ucrânia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2024-01-01,2024,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1928-01-01,1928,Quebra da Bolsa de Nova York,Crise Financeira,Crise Financeira,Alto,Historical_Dataset_Comprehensive
+1929-01-01,1929,Consequências de Quebra da Bolsa de Nova York...,Crise Financeira (Consequências),Crise Financeira (Consequências),Médio,Historical_Dataset_Comprehensive
+1928-01-01,1928,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1927-01-01,1927,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1931-01-01,1931,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1929-01-01,1929,Grande Depressão,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+1931-01-01,1931,Consequências de Grande Depressão...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1927-01-01,1927,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1928-01-01,1928,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1932-01-01,1932,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1933-01-01,1933,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Crise do Petróleo,Crise Energética,Crise Energética,Alto,Historical_Dataset_Comprehensive
+1973-01-01,1973,Consequências de Crise do Petróleo...,Crise Energética (Consequências),Crise Energética (Consequências),Médio,Historical_Dataset_Comprehensive
+1972-01-01,1972,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1975-01-01,1975,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Crise da Dívida Latinoamericana,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+1983-01-01,1983,Consequências de Crise da Dívida Latinoamerican...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1985-01-01,1985,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1988-01-01,1988,Quarta-feira Negra,Crise Financeira,Crise Financeira,Médio,Historical_Dataset_Comprehensive
+1986-01-01,1986,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1987-01-01,1987,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1988-01-01,1988,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Crise Asiática,Crise Financeira Regional,Crise Financeira Regional,Alto,Historical_Dataset_Comprehensive
+1997-01-01,1997,Consequências de Crise Asiática...,Crise Financeira Regional (Consequências),Crise Financeira Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Bolha da Internet,Crise Tecnológica,Crise Tecnológica,Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2008-01-01,2008,Crise Financeira Global,Crise Financeira Global,Crise Financeira Global,Alto,Historical_Dataset_Comprehensive
+2008-01-01,2008,Consequências de Crise Financeira Global...,Crise Financeira Global (Consequências),Crise Financeira Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2006-01-01,2006,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2007-01-01,2007,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Crise da Dívida Europeia,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+2009-01-01,2009,Consequências de Crise da Dívida Europeia...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Recessão COVID-19,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+2020-01-01,2020,Consequências de Recessão COVID-19...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1903-01-01,1903,Primeiro voo dos irmãos Wright,Avanço Aeronáutico,Avanço Aeronáutico,Alto,Historical_Dataset_Comprehensive
+1902-01-01,1902,Consequências de Primeiro voo dos irmãos Wright...,Avanço Aeronáutico (Consequências),Avanço Aeronáutico (Consequências),Médio,Historical_Dataset_Comprehensive
+1902-01-01,1902,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1901-01-01,1901,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1903-01-01,1903,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1906-01-01,1906,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1905-01-01,1905,Teoria da Relatividade (Einstein),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1905-01-01,1905,Consequências de Teoria da Relatividade (Einste...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1903-01-01,1903,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1904-01-01,1904,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1906-01-01,1906,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1907-01-01,1907,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1910-01-01,1910,Descoberta do elétron (Rutherford),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1912-01-01,1912,Consequências de Descoberta do elétron (Rutherf...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1908-01-01,1908,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1911-01-01,1911,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1912-01-01,1912,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1922-01-01,1922,Descoberta da Insulina,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1921-01-01,1921,Consequências de Descoberta da Insulina...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1921-01-01,1921,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1920-01-01,1920,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1922-01-01,1922,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1924-01-01,1924,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1928-01-01,1928,Penicilina (Fleming),Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1928-01-01,1928,Consequências de Penicilina (Fleming)...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1927-01-01,1927,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1930-01-01,1930,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1931-01-01,1931,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1932-01-01,1932,Nêutron descoberto,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1931-01-01,1931,Consequências de Nêutron descoberto...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1929-01-01,1929,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1932-01-01,1932,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1933-01-01,1933,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1941-01-01,1941,Reator nuclear (Fermi),Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1941-01-01,1941,Consequências de Reator nuclear (Fermi)...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1941-01-01,1941,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1942-01-01,1942,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1944-01-01,1944,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1946-01-01,1946,Bomba atômica,Avanço Militar,Avanço Militar,Alto,Historical_Dataset_Comprehensive
+1946-01-01,1946,Consequências de Bomba atômica...,Avanço Militar (Consequências),Avanço Militar (Consequências),Médio,Historical_Dataset_Comprehensive
+1944-01-01,1944,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1943-01-01,1943,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1945-01-01,1945,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1947-01-01,1947,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1954-01-01,1954,Estrutura do DNA,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1952-01-01,1952,Consequências de Estrutura do DNA...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1952-01-01,1952,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1953-01-01,1953,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1954-01-01,1954,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Sputnik 1,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1958-01-01,1958,Consequências de Sputnik 1...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1955-01-01,1955,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1960-01-01,1960,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1961-01-01,1961,Voos espaciais tripulados,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1961-01-01,1961,Consequências de Voos espaciais tripulados...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1958-01-01,1958,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1959-01-01,1959,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1962-01-01,1962,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1968-01-01,1968,Homem na Lua,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1969-01-01,1969,Consequências de Homem na Lua...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1968-01-01,1968,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1967-01-01,1967,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1969-01-01,1969,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1970-01-01,1970,Microprocessador,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1970-01-01,1970,Consequências de Microprocessador...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,IBM PC,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1981-01-01,1981,Consequências de IBM PC...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Internet ARPANET,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1984-01-01,1984,Consequências de Internet ARPANET...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1984-01-01,1984,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1985-01-01,1985,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,World Wide Web,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Consequências de World Wide Web...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1987-01-01,1987,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1997-01-01,1997,Clonagem da ovelha Dolly,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1997-01-01,1997,Consequências de Clonagem da ovelha Dolly...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Genoma humano sequenciado,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+2000-01-01,2000,Consequências de Genoma humano sequenciado...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2008-01-01,2008,iPhone lançado,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+2008-01-01,2008,Consequências de iPhone lançado...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+2006-01-01,2006,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2007-01-01,2007,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2013-01-01,2013,Descoberta do Bóson de Higgs,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+2013-01-01,2013,Consequências de Descoberta do Bóson de Higgs...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2014-01-01,2014,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Vacinas COVID-19 desenvolvidas,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+2021-01-01,2021,Consequências de Vacinas COVID-19 desenvolvidas...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1916-01-01,1916,Revolução Russa,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1917-01-01,1917,Consequências de Revolução Russa...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1915-01-01,1915,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1917-01-01,1917,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1919-01-01,1919,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1918-01-01,1918,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1919-01-01,1919,Proibição do álcool (EUA),Mudança Social,Mudança Social,Médio,Historical_Dataset_Comprehensive
+1919-01-01,1919,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1920-01-01,1920,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1923-01-01,1923,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1934-01-01,1934,Ascensão de Hitler,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1932-01-01,1932,Consequências de Ascensão de Hitler...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1930-01-01,1930,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1933-01-01,1933,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1934-01-01,1934,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1935-01-01,1935,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Independência da Índia,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1946-01-01,1946,Consequências de Independência da Índia...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1945-01-01,1945,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1946-01-01,1946,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1949-01-01,1949,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1947-01-01,1947,Estado de Israel,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1947-01-01,1947,Consequências de Estado de Israel...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1947-01-01,1947,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1949-01-01,1949,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1950-01-01,1950,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Caso Brown vs. Conselho de Educação,Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1954-01-01,1954,Consequências de Caso Brown vs. Conselho de Edu...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1952-01-01,1952,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Conferência de Bandung,Movimento Internacional,Movimento Internacional,Médio,Historical_Dataset_Comprehensive
+1953-01-01,1953,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1958-01-01,1958,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1962-01-01,1962,Marcha em Washington (MLK),Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+1962-01-01,1962,Consequências de Marcha em Washington (MLK)...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1962-01-01,1962,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1964-01-01,1964,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1964-01-01,1964,Lei dos Direitos Civis (EUA),Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1964-01-01,1964,Consequências de Lei dos Direitos Civis (EUA)...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1963-01-01,1963,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1964-01-01,1964,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1966-01-01,1966,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1969-01-01,1969,Primavera de Praga,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+1967-01-01,1967,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1968-01-01,1968,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Acordos de Paris (Vietnã),Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1977-01-01,1977,Morte de Mao Tsé-Tung,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1975-01-01,1975,Consequências de Morte de Mao Tsé-Tung...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1973-01-01,1973,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1976-01-01,1976,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1978-01-01,1978,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Queda do Muro de Berlin,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Consequências de Queda do Muro de Berlin...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1988-01-01,1988,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Unificação da Alemanha,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1991-01-01,1991,Consequências de Unificação da Alemanha...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1987-01-01,1987,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Tratado de Maastricht,Mudança Política,Mudança Política,Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Eleições na África do Sul,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1995-01-01,1995,Consequências de Eleições na África do Sul...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2005-01-01,2005,Furacão Katrina,Desastre Natural,Desastre Natural,Alto,Historical_Dataset_Comprehensive
+2006-01-01,2006,Consequências de Furacão Katrina...,Desastre Natural (Consequências),Desastre Natural (Consequências),Médio,Historical_Dataset_Comprehensive
+2003-01-01,2003,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2005-01-01,2005,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2006-01-01,2006,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2007-01-01,2007,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Ocupação de Wall Street,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2014-01-01,2014,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2016-01-01,2016,Eleição de Trump,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+2015-01-01,2015,Consequências de Eleição de Trump...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2015-01-01,2015,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2014-01-01,2014,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2016-01-01,2016,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Greta Thunberg inicia Fridays for Future,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,George Floyd e movimento Black Lives Matter,Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+2021-01-01,2021,Consequências de George Floyd e movimento Black...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1914-01-01,1914,Início Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1914-01-01,1914,Consequências de Início Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1911-01-01,1911,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1913-01-01,1913,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1919-01-01,1919,Fim Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1915-01-01,1915,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1938-01-01,1938,Início Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1939-01-01,1939,Consequências de Início Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1937-01-01,1937,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1940-01-01,1940,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1945-01-01,1945,Fim Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1944-01-01,1944,Consequências de Fim Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1942-01-01,1942,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1946-01-01,1946,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1949-01-01,1949,Consequências de Guerra da Coreia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1951-01-01,1951,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1953-01-01,1953,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1959-01-01,1959,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Crise dos Mísseis Cubanos,Crise Nuclear,Crise Nuclear,Alto,Historical_Dataset_Comprehensive
+1960-01-01,1960,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1965-01-01,1965,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1967-01-01,1967,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Guerra do Yom Kippur,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1975-01-01,1975,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1980-01-01,1980,Revolução Iraniana,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Guerra Irã-Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1981-01-01,1981,Consequências de Guerra Irã-Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Guerra das Malvinas,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Guerra do Golfo,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1989-01-01,1989,Consequências de Guerra do Golfo...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1987-01-01,1987,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1988-01-01,1988,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Dissolução da União Soviética,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Genocídio em Ruanda,Crise Humanitária,Crise Humanitária,Alto,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Ataques de 11 de Setembro,Terrorismo Global,Terrorismo Global,Alto,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2003-01-01,2003,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2004-01-01,2004,Consequências de Invasão do Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2001-01-01,2001,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2004-01-01,2004,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Primavera Árabe,Revoluções Regionais,Revoluções Regionais,Alto,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2014-01-01,2014,Crise da Crimeia,Conflito Internacional,Conflito Internacional,Alto,Historical_Dataset_Comprehensive
+2013-01-01,2013,Consequências de Crise da Crimeia...,Conflito Internacional (Consequências),Conflito Internacional (Consequências),Médio,Historical_Dataset_Comprehensive
+2014-01-01,2014,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Pandemia COVID-19,Crise Global,Crise Global,Alto,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Invasão da Ucrânia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2025-01-01,2025,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1930-01-01,1930,Quebra da Bolsa de Nova York,Crise Financeira,Crise Financeira,Alto,Historical_Dataset_Comprehensive
+1929-01-01,1929,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1930-01-01,1930,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1932-01-01,1932,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1929-01-01,1929,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1930-01-01,1930,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Crise do Petróleo,Crise Energética,Crise Energética,Alto,Historical_Dataset_Comprehensive
+1972-01-01,1972,Consequências de Crise do Petróleo...,Crise Energética (Consequências),Crise Energética (Consequências),Médio,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1976-01-01,1976,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Consequências de Crise da Dívida Latinoamerican...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1984-01-01,1984,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1985-01-01,1985,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Consequências de Crise Asiática...,Crise Financeira Regional (Consequências),Crise Financeira Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Crise Asiática...,Crise Financeira Regional (Relacionado),Crise Financeira Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Bolha da Internet,Crise Tecnológica,Crise Tecnológica,Médio,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2003-01-01,2003,Evento relacionado a Bolha da Internet...,Crise Tecnológica (Relacionado),Crise Tecnológica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2007-01-01,2007,Consequências de Crise Financeira Global...,Crise Financeira Global (Consequências),Crise Financeira Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2005-01-01,2005,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Crise da Dívida Europeia,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+2011-01-01,2011,Consequências de Crise da Dívida Europeia...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Consequências de Recessão COVID-19...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1904-01-01,1904,Primeiro voo dos irmãos Wright,Avanço Aeronáutico,Avanço Aeronáutico,Alto,Historical_Dataset_Comprehensive
+1903-01-01,1903,Consequências de Primeiro voo dos irmãos Wright...,Avanço Aeronáutico (Consequências),Avanço Aeronáutico (Consequências),Médio,Historical_Dataset_Comprehensive
+1900-01-01,1900,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1904-01-01,1904,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1904-01-01,1904,Teoria da Relatividade (Einstein),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1906-01-01,1906,Consequências de Teoria da Relatividade (Einste...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1905-01-01,1905,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1908-01-01,1908,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1911-01-01,1911,Consequências de Descoberta do elétron (Rutherf...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1909-01-01,1909,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1921-01-01,1921,Descoberta da Insulina,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1922-01-01,1922,Consequências de Descoberta da Insulina...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1929-01-01,1929,Consequências de Penicilina (Fleming)...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1928-01-01,1928,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1929-01-01,1929,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1933-01-01,1933,Nêutron descoberto,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1932-01-01,1932,Consequências de Nêutron descoberto...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1930-01-01,1930,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1934-01-01,1934,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1935-01-01,1935,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1943-01-01,1943,Reator nuclear (Fermi),Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1943-01-01,1943,Consequências de Reator nuclear (Fermi)...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1939-01-01,1939,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1943-01-01,1943,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1945-01-01,1945,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1945-01-01,1945,Bomba atômica,Avanço Militar,Avanço Militar,Alto,Historical_Dataset_Comprehensive
+1945-01-01,1945,Consequências de Bomba atômica...,Avanço Militar (Consequências),Avanço Militar (Consequências),Médio,Historical_Dataset_Comprehensive
+1942-01-01,1942,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1946-01-01,1946,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Evento relacionado a Bomba atômica...,Avanço Militar (Relacionado),Avanço Militar (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1953-01-01,1953,Estrutura do DNA,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1954-01-01,1954,Consequências de Estrutura do DNA...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1950-01-01,1950,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1958-01-01,1958,Sputnik 1,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1957-01-01,1957,Consequências de Sputnik 1...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1959-01-01,1959,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1960-01-01,1960,Consequências de Voos espaciais tripulados...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1960-01-01,1960,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1970-01-01,1970,Homem na Lua,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1970-01-01,1970,Consequências de Homem na Lua...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1971-01-01,1971,Consequências de Microprocessador...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1969-01-01,1969,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,IBM PC,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1982-01-01,1982,Consequências de IBM PC...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1984-01-01,1984,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Internet ARPANET,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1986-01-01,1986,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,World Wide Web,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Consequências de Clonagem da ovelha Dolly...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2001-01-01,2001,Consequências de Genoma humano sequenciado...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1999-01-01,1999,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2003-01-01,2003,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2005-01-01,2005,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2015-01-01,2015,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Vacinas COVID-19 desenvolvidas,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+2020-01-01,2020,Consequências de Vacinas COVID-19 desenvolvidas...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1917-01-01,1917,Revolução Russa,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1916-01-01,1916,Consequências de Revolução Russa...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1916-01-01,1916,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1920-01-01,1920,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1922-01-01,1922,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1933-01-01,1933,Ascensão de Hitler,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1934-01-01,1934,Consequências de Ascensão de Hitler...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1932-01-01,1932,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1936-01-01,1936,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1947-01-01,1947,Independência da Índia,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1947-01-01,1947,Consequências de Independência da Índia...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1950-01-01,1950,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Consequências de Estado de Israel...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1945-01-01,1945,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1951-01-01,1951,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1954-01-01,1954,Caso Brown vs. Conselho de Educação,Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1953-01-01,1953,Consequências de Caso Brown vs. Conselho de Edu...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1953-01-01,1953,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1954-01-01,1954,Conferência de Bandung,Movimento Internacional,Movimento Internacional,Médio,Historical_Dataset_Comprehensive
+1952-01-01,1952,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1960-01-01,1960,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1965-01-01,1965,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1965-01-01,1965,Lei dos Direitos Civis (EUA),Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1965-01-01,1965,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1965-01-01,1965,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1969-01-01,1969,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Acordos de Paris (Vietnã),Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+1969-01-01,1969,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1976-01-01,1976,Morte de Mao Tsé-Tung,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1974-01-01,1974,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1975-01-01,1975,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1977-01-01,1977,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Queda do Muro de Berlin,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1989-01-01,1989,Consequências de Queda do Muro de Berlin...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Unificação da Alemanha,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Consequências de Unificação da Alemanha...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1988-01-01,1988,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Eleições na África do Sul,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1994-01-01,1994,Consequências de Eleições na África do Sul...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2005-01-01,2005,Consequências de Furacão Katrina...,Desastre Natural (Consequências),Desastre Natural (Consequências),Médio,Historical_Dataset_Comprehensive
+2002-01-01,2002,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2004-01-01,2004,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a Furacão Katrina...,Desastre Natural (Relacionado),Desastre Natural (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Ocupação de Wall Street,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2017-01-01,2017,Consequências de Eleição de Trump...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2018-01-01,2018,Greta Thunberg inicia Fridays for Future,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,George Floyd e movimento Black Lives Matter,Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+2020-01-01,2020,Consequências de George Floyd e movimento Black...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a George Floyd e movim...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1917-01-01,1917,Consequências de Fim Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1946-01-01,1946,Consequências de Fim Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1949-01-01,1949,Guerra da Coreia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1950-01-01,1950,Consequências de Guerra da Coreia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1947-01-01,1947,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1949-01-01,1949,Evento relacionado a Guerra da Coreia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Crise de Suez,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1954-01-01,1954,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1967-01-01,1967,Guerra dos Seis Dias,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1967-01-01,1967,Consequências de Guerra dos Seis Dias...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1969-01-01,1969,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Guerra do Yom Kippur,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1973-01-01,1973,Consequências de Guerra do Yom Kippur...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1979-01-01,1979,Consequências de Revolução Iraniana...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1977-01-01,1977,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1978-01-01,1978,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1983-01-01,1983,Evento relacionado a Guerra Irã-Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Guerra das Malvinas,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1980-01-01,1980,Evento relacionado a Guerra das Malvinas...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Guerra do Golfo,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1991-01-01,1991,Evento relacionado a Guerra do Golfo...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Dissolução da União Soviética,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1990-01-01,1990,Consequências de Dissolução da União Soviética...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Consequências de Genocídio em Ruanda...,Crise Humanitária (Consequências),Crise Humanitária (Consequências),Médio,Historical_Dataset_Comprehensive
+1996-01-01,1996,Acordos de Dayton,Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Guerra do Kosovo,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Guerra do Kosovo...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Consequências de Ataques de 11 de Setembro...,Terrorismo Global (Consequências),Terrorismo Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2004-01-01,2004,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Primavera Árabe,Revoluções Regionais,Revoluções Regionais,Alto,Historical_Dataset_Comprehensive
+2010-01-01,2010,Consequências de Primavera Árabe...,Revoluções Regionais (Consequências),Revoluções Regionais (Consequências),Médio,Historical_Dataset_Comprehensive
+2014-01-01,2014,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Consequências de Invasão da Ucrânia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1931-01-01,1931,Evento relacionado a Grande Depressão...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Consequências de Crise do Petróleo...,Crise Energética (Consequências),Crise Energética (Consequências),Médio,Historical_Dataset_Comprehensive
+1996-01-01,1996,Consequências de Crise Asiática...,Crise Financeira Regional (Consequências),Crise Financeira Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2001-01-01,2001,Bolha da Internet,Crise Tecnológica,Crise Tecnológica,Médio,Historical_Dataset_Comprehensive
+2008-01-01,2008,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Recessão COVID-19,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+2021-01-01,2021,Consequências de Recessão COVID-19...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1904-01-01,1904,Consequências de Primeiro voo dos irmãos Wright...,Avanço Aeronáutico (Consequências),Avanço Aeronáutico (Consequências),Médio,Historical_Dataset_Comprehensive
+1912-01-01,1912,Descoberta do elétron (Rutherford),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1910-01-01,1910,Consequências de Descoberta do elétron (Rutherf...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1910-01-01,1910,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1913-01-01,1913,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1919-01-01,1919,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1925-01-01,1925,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1929-01-01,1929,Penicilina (Fleming),Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1926-01-01,1926,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1942-01-01,1942,Reator nuclear (Fermi),Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1944-01-01,1944,Bomba atômica,Avanço Militar,Avanço Militar,Alto,Historical_Dataset_Comprehensive
+1944-01-01,1944,Consequências de Bomba atômica...,Avanço Militar (Consequências),Avanço Militar (Consequências),Médio,Historical_Dataset_Comprehensive
+1952-01-01,1952,Estrutura do DNA,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1953-01-01,1953,Consequências de Estrutura do DNA...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1951-01-01,1951,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1958-01-01,1958,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1960-01-01,1960,Voos espaciais tripulados,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1968-01-01,1968,Consequências de Homem na Lua...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1971-01-01,1971,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1972-01-01,1972,Microprocessador,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1972-01-01,1972,Consequências de Microprocessador...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1968-01-01,1968,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1981-01-01,1981,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1982-01-01,1982,Consequências de Internet ARPANET...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1989-01-01,1989,Consequências de World Wide Web...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1996-01-01,1996,Clonagem da ovelha Dolly,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1998-01-01,1998,Consequências de Clonagem da ovelha Dolly...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Genoma humano sequen...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2007-01-01,2007,iPhone lançado,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+2007-01-01,2007,Consequências de iPhone lançado...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+2012-01-01,2012,Descoberta do Bóson de Higgs,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+2019-01-01,2019,Consequências de Vacinas COVID-19 desenvolvidas...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a Vacinas COVID-19 des...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1920-01-01,1920,Proibição do álcool (EUA),Mudança Social,Mudança Social,Médio,Historical_Dataset_Comprehensive
+1918-01-01,1918,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1921-01-01,1921,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1932-01-01,1932,Ascensão de Hitler,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1933-01-01,1933,Consequências de Ascensão de Hitler...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1946-01-01,1946,Independência da Índia,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1948-01-01,1948,Consequências de Independência da Índia...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1947-01-01,1947,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1946-01-01,1946,Evento relacionado a Estado de Israel...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Consequências de Caso Brown vs. Conselho de Edu...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1956-01-01,1956,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1955-01-01,1955,Conferência de Bandung,Movimento Internacional,Movimento Internacional,Médio,Historical_Dataset_Comprehensive
+1965-01-01,1965,Consequências de Lei dos Direitos Civis (EUA)...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1967-01-01,1967,Primavera de Praga,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+1966-01-01,1966,Evento relacionado a Primavera de Praga...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1973-01-01,1973,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1975-01-01,1975,Morte de Mao Tsé-Tung,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1976-01-01,1976,Consequências de Morte de Mao Tsé-Tung...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1988-01-01,1988,Consequências de Queda do Muro de Berlin...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Unificação da Alemanha,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1992-01-01,1992,Tratado de Maastricht,Mudança Política,Mudança Política,Médio,Historical_Dataset_Comprehensive
+1989-01-01,1989,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1990-01-01,1990,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1996-01-01,1996,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2004-01-01,2004,Furacão Katrina,Desastre Natural,Desastre Natural,Alto,Historical_Dataset_Comprehensive
+2017-01-01,2017,Eleição de Trump,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+2018-01-01,2018,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Consequências de George Floyd e movimento Black...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1913-01-01,1913,Início Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1917-01-01,1917,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1920-01-01,1920,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1939-01-01,1939,Início Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1938-01-01,1938,Consequências de Início Segunda Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1938-01-01,1938,Evento relacionado a Início Segunda Guerr...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1947-01-01,1947,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Consequências de Crise dos Mísseis Cubanos...,Crise Nuclear (Consequências),Crise Nuclear (Consequências),Médio,Historical_Dataset_Comprehensive
+1959-01-01,1959,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1964-01-01,1964,Evento relacionado a Crise dos Mísseis Cu...,Crise Nuclear (Relacionado),Crise Nuclear (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1966-01-01,1966,Consequências de Guerra dos Seis Dias...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1964-01-01,1964,Evento relacionado a Guerra dos Seis Dias...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Consequências de Guerra do Yom Kippur...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1972-01-01,1972,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Evento relacionado a Guerra do Yom Kippur...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1978-01-01,1978,Revolução Iraniana,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1982-01-01,1982,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1991-01-01,1991,Consequências de Guerra do Golfo...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Consequências de Dissolução da União Soviética...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Dissolução da União ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Genocídio em Ruanda...,Crise Humanitária (Relacionado),Crise Humanitária (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Acordos de Dayton,Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+2000-01-01,2000,Consequências de Ataques de 11 de Setembro...,Terrorismo Global (Consequências),Terrorismo Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Ataques de 11 de Set...,Terrorismo Global (Relacionado),Terrorismo Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2004-01-01,2004,Invasão do Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Primavera Árabe...,Revoluções Regionais (Relacionado),Revoluções Regionais (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2015-01-01,2015,Crise da Crimeia,Conflito Internacional,Conflito Internacional,Alto,Historical_Dataset_Comprehensive
+2012-01-01,2012,Evento relacionado a Crise da Crimeia...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2021-01-01,2021,Pandemia COVID-19,Crise Global,Crise Global,Alto,Historical_Dataset_Comprehensive
+2021-01-01,2021,Consequências de Pandemia COVID-19...,Crise Global (Consequências),Crise Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1931-01-01,1931,Grande Depressão,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+1973-01-01,1973,Evento relacionado a Crise do Petróleo...,Crise Energética (Relacionado),Crise Energética (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1986-01-01,1986,Quarta-feira Negra,Crise Financeira,Crise Financeira,Médio,Historical_Dataset_Comprehensive
+2007-01-01,2007,Crise Financeira Global,Crise Financeira Global,Crise Financeira Global,Alto,Historical_Dataset_Comprehensive
+2007-01-01,2007,Evento relacionado a Crise da Dívida Euro...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1902-01-01,1902,Primeiro voo dos irmãos Wright,Avanço Aeronáutico,Avanço Aeronáutico,Alto,Historical_Dataset_Comprehensive
+1905-01-01,1905,Evento relacionado a Primeiro voo dos irm...,Avanço Aeronáutico (Relacionado),Avanço Aeronáutico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1911-01-01,1911,Descoberta do elétron (Rutherford),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1923-01-01,1923,Consequências de Descoberta da Insulina...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1923-01-01,1923,Evento relacionado a Descoberta da Insuli...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1927-01-01,1927,Penicilina (Fleming),Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1931-01-01,1931,Evento relacionado a Nêutron descoberto...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1980-01-01,1980,IBM PC,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1983-01-01,1983,Evento relacionado a Internet ARPANET...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Consequências de Descoberta do Bóson de Higgs...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1918-01-01,1918,Consequências de Revolução Russa...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+1921-01-01,1921,Proibição do álcool (EUA),Mudança Social,Mudança Social,Médio,Historical_Dataset_Comprehensive
+1917-01-01,1917,Evento relacionado a Proibição do álcool ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1944-01-01,1944,Evento relacionado a Independência da Índ...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1949-01-01,1949,Estado de Israel,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1953-01-01,1953,Caso Brown vs. Conselho de Educação,Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1964-01-01,1964,Consequências de Marcha em Washington (MLK)...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1961-01-01,1961,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Lei dos Direitos Civis (EUA),Mudança Social,Mudança Social,Alto,Historical_Dataset_Comprehensive
+1962-01-01,1962,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1970-01-01,1970,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1987-01-01,1987,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Eleições na África do Sul,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1993-01-01,1993,Consequências de Eleições na África do Sul...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2004-01-01,2004,Consequências de Furacão Katrina...,Desastre Natural (Consequências),Desastre Natural (Consequências),Médio,Historical_Dataset_Comprehensive
+2010-01-01,2010,Ocupação de Wall Street,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2013-01-01,2013,Evento relacionado a Ocupação de Wall Str...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Eleição de Trump...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2020-01-01,2020,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,George Floyd e movimento Black Lives Matter,Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+1916-01-01,1916,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1917-01-01,1917,Evento relacionado a Início Primeira Guer...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1918-01-01,1918,Consequências de Fim Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1946-01-01,1946,Fim Segunda Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1943-01-01,1943,Evento relacionado a Fim Segunda Guerra M...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1951-01-01,1951,Guerra da Coreia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1955-01-01,1955,Crise de Suez,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+1961-01-01,1961,Consequências de Crise dos Mísseis Cubanos...,Crise Nuclear (Consequências),Crise Nuclear (Consequências),Médio,Historical_Dataset_Comprehensive
+1976-01-01,1976,Evento relacionado a Revolução Iraniana...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1979-01-01,1979,Guerra Irã-Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1980-01-01,1980,Consequências de Guerra Irã-Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1998-01-01,1998,Evento relacionado a Acordos de Dayton...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2000-01-01,2000,Guerra do Kosovo,Conflito Internacional,Conflito Internacional,Médio,Historical_Dataset_Comprehensive
+2006-01-01,2006,Evento relacionado a Invasão do Iraque...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Consequências de Primavera Árabe...,Revoluções Regionais (Consequências),Revoluções Regionais (Consequências),Médio,Historical_Dataset_Comprehensive
+2015-01-01,2015,Consequências de Crise da Crimeia...,Conflito Internacional (Consequências),Conflito Internacional (Consequências),Médio,Historical_Dataset_Comprehensive
+2020-01-01,2020,Consequências de Pandemia COVID-19...,Crise Global (Consequências),Crise Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2022-01-01,2022,Consequências de Invasão da Ucrânia...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2023-01-01,2023,Evento relacionado a Invasão da Ucrânia...,Guerra Regional (Relacionado),Guerra Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1929-01-01,1929,Consequências de Grande Depressão...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1982-01-01,1982,Crise da Dívida Latinoamericana,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a Crise da Dívida Lati...,Crise Econômica Regional (Relacionado),Crise Econômica Regional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1987-01-01,1987,Quarta-feira Negra,Crise Financeira,Crise Financeira,Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Crise Asiática,Crise Financeira Regional,Crise Financeira Regional,Alto,Historical_Dataset_Comprehensive
+2009-01-01,2009,Crise Financeira Global,Crise Financeira Global,Crise Financeira Global,Alto,Historical_Dataset_Comprehensive
+2010-01-01,2010,Evento relacionado a Crise Financeira Glo...,Crise Financeira Global (Relacionado),Crise Financeira Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1904-01-01,1904,Consequências de Teoria da Relatividade (Einste...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1925-01-01,1925,Evento relacionado a Penicilina (Fleming)...,Avanço Médico (Relacionado),Avanço Médico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1940-01-01,1940,Evento relacionado a Reator nuclear (Ferm...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Evento relacionado a Estrutura do DNA...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Sputnik 1,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1962-01-01,1962,Consequências de Voos espaciais tripulados...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1961-01-01,1961,Evento relacionado a Voos espaciais tripu...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1994-01-01,1994,Evento relacionado a Clonagem da ovelha D...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1999-01-01,1999,Genoma humano sequenciado,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+2006-01-01,2006,iPhone lançado,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+2004-01-01,2004,Evento relacionado a iPhone lançado...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2011-01-01,2011,Descoberta do Bóson de Higgs,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+2009-01-01,2009,Evento relacionado a Descoberta do Bóson ...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2019-01-01,2019,Vacinas COVID-19 desenvolvidas,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1918-01-01,1918,Revolução Russa,Revolução Política,Revolução Política,Alto,Historical_Dataset_Comprehensive
+1914-01-01,1914,Evento relacionado a Revolução Russa...,Revolução Política (Relacionado),Revolução Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1931-01-01,1931,Evento relacionado a Ascensão de Hitler...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1954-01-01,1954,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Marcha em Washington (MLK),Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+1963-01-01,1963,Consequências de Marcha em Washington (MLK)...,Movimento Social (Consequências),Movimento Social (Consequências),Médio,Historical_Dataset_Comprehensive
+1961-01-01,1961,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1975-01-01,1975,Evento relacionado a Acordos de Paris (Vi...,Paz Internacional (Relacionado),Paz Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1979-01-01,1979,Evento relacionado a Morte de Mao Tsé-Tun...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1988-01-01,1988,Queda do Muro de Berlin,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1993-01-01,1993,Evento relacionado a Unificação da Aleman...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2006-01-01,2006,Furacão Katrina,Desastre Natural,Desastre Natural,Alto,Historical_Dataset_Comprehensive
+1913-01-01,1913,Consequências de Início Primeira Guerra Mundial...,Guerra Global (Consequências),Guerra Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1921-01-01,1921,Evento relacionado a Fim Primeira Guerra ...,Guerra Global (Relacionado),Guerra Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1957-01-01,1957,Evento relacionado a Crise de Suez...,Conflito Internacional (Relacionado),Conflito Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2002-01-01,2002,Invasão do Iraque,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+2022-01-01,2022,Invasão da Ucrânia,Guerra Regional,Guerra Regional,Alto,Historical_Dataset_Comprehensive
+1928-01-01,1928,Consequências de Quebra da Bolsa de Nova York...,Crise Financeira (Consequências),Crise Financeira (Consequências),Médio,Historical_Dataset_Comprehensive
+1930-01-01,1930,Grande Depressão,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+1984-01-01,1984,Evento relacionado a Quarta-feira Negra...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2009-01-01,2009,Crise da Dívida Europeia,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+2010-01-01,2010,Consequências de Crise da Dívida Europeia...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1931-01-01,1931,Nêutron descoberto,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1933-01-01,1933,Consequências de Nêutron descoberto...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1954-01-01,1954,Evento relacionado a Sputnik 1...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1962-01-01,1962,Voos espaciais tripulados,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1971-01-01,1971,Microprocessador,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1984-01-01,1984,Internet ARPANET,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+1983-01-01,1983,Consequências de Internet ARPANET...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1988-01-01,1988,Evento relacionado a World Wide Web...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1948-01-01,1948,Estado de Israel,Mudança Geopolítica,Mudança Geopolítica,Alto,Historical_Dataset_Comprehensive
+1949-01-01,1949,Consequências de Estado de Israel...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+1967-01-01,1967,Evento relacionado a Lei dos Direitos Civ...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1977-01-01,1977,Consequências de Morte de Mao Tsé-Tung...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2016-01-01,2016,Evento relacionado a Greta Thunberg inici...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Consequências de Genocídio em Ruanda...,Crise Humanitária (Consequências),Crise Humanitária (Consequências),Médio,Historical_Dataset_Comprehensive
+1929-01-01,1929,Quebra da Bolsa de Nova York,Crise Financeira,Crise Financeira,Alto,Historical_Dataset_Comprehensive
+1930-01-01,1930,Consequências de Quebra da Bolsa de Nova York...,Crise Financeira (Consequências),Crise Financeira (Consequências),Médio,Historical_Dataset_Comprehensive
+1930-01-01,1930,Consequências de Grande Depressão...,Crise Econômica Global (Consequências),Crise Econômica Global (Consequências),Médio,Historical_Dataset_Comprehensive
+1972-01-01,1972,Crise do Petróleo,Crise Energética,Crise Energética,Alto,Historical_Dataset_Comprehensive
+1983-01-01,1983,Crise da Dívida Latinoamericana,Crise Econômica Regional,Crise Econômica Regional,Alto,Historical_Dataset_Comprehensive
+1981-01-01,1981,Consequências de Crise da Dívida Latinoamerican...,Crise Econômica Regional (Consequências),Crise Econômica Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+2022-01-01,2022,Evento relacionado a Recessão COVID-19...,Crise Econômica Global (Relacionado),Crise Econômica Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1906-01-01,1906,Teoria da Relatividade (Einstein),Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1942-01-01,1942,Consequências de Reator nuclear (Fermi)...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1966-01-01,1966,Evento relacionado a Homem na Lua...,Avanço Espacial (Relacionado),Avanço Espacial (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1980-01-01,1980,Consequências de IBM PC...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1991-01-01,1991,Consequências de World Wide Web...,Avanço Tecnológico (Consequências),Avanço Tecnológico (Consequências),Médio,Historical_Dataset_Comprehensive
+1999-01-01,1999,Consequências de Genoma humano sequenciado...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1964-01-01,1964,Marcha em Washington (MLK),Movimento Social,Movimento Social,Alto,Historical_Dataset_Comprehensive
+1966-01-01,1966,Evento relacionado a Marcha em Washington...,Movimento Social (Relacionado),Movimento Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1993-01-01,1993,Tratado de Maastricht,Mudança Política,Mudança Política,Médio,Historical_Dataset_Comprehensive
+1997-01-01,1997,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1918-01-01,1918,Fim Primeira Guerra Mundial,Guerra Global,Guerra Global,Alto,Historical_Dataset_Comprehensive
+1998-01-01,1998,Crise Asiática,Crise Financeira Regional,Crise Financeira Regional,Alto,Historical_Dataset_Comprehensive
+2009-01-01,2009,Consequências de Crise Financeira Global...,Crise Financeira Global (Consequências),Crise Financeira Global (Consequências),Médio,Historical_Dataset_Comprehensive
+2020-01-01,2020,Recessão COVID-19,Crise Econômica Global,Crise Econômica Global,Alto,Historical_Dataset_Comprehensive
+1902-01-01,1902,Evento relacionado a Teoria da Relativida...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1914-01-01,1914,Evento relacionado a Descoberta do elétro...,Avanço Científico (Relacionado),Avanço Científico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1956-01-01,1956,Consequências de Sputnik 1...,Avanço Espacial (Consequências),Avanço Espacial (Consequências),Médio,Historical_Dataset_Comprehensive
+1969-01-01,1969,Homem na Lua,Avanço Espacial,Avanço Espacial,Alto,Historical_Dataset_Comprehensive
+1989-01-01,1989,World Wide Web,Avanço Tecnológico,Avanço Tecnológico,Alto,Historical_Dataset_Comprehensive
+2001-01-01,2001,Genoma humano sequenciado,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1954-01-01,1954,Evento relacionado a Conferência de Bandu...,Movimento Internacional (Relacionado),Movimento Internacional (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1986-01-01,1986,Evento relacionado a Queda do Muro de Ber...,Mudança Geopolítica (Relacionado),Mudança Geopolítica (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1989-01-01,1989,Consequências de Unificação da Alemanha...,Mudança Geopolítica (Consequências),Mudança Geopolítica (Consequências),Médio,Historical_Dataset_Comprehensive
+2015-01-01,2015,Eleição de Trump,Mudança Política,Mudança Política,Alto,Historical_Dataset_Comprehensive
+1980-01-01,1980,Consequências de Revolução Iraniana...,Revolução Política (Consequências),Revolução Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2000-01-01,2000,Ataques de 11 de Setembro,Terrorismo Global,Terrorismo Global,Alto,Historical_Dataset_Comprehensive
+1978-01-01,1978,Evento relacionado a IBM PC...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+2012-01-01,2012,Consequências de Descoberta do Bóson de Higgs...,Avanço Científico (Consequências),Avanço Científico (Consequências),Médio,Historical_Dataset_Comprehensive
+1951-01-01,1951,Evento relacionado a Caso Brown vs. Conse...,Mudança Social (Relacionado),Mudança Social (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1963-01-01,1963,Consequências de Lei dos Direitos Civis (EUA)...,Mudança Social (Consequências),Mudança Social (Consequências),Médio,Historical_Dataset_Comprehensive
+2016-01-01,2016,Consequências de Eleição de Trump...,Mudança Política (Consequências),Mudança Política (Consequências),Médio,Historical_Dataset_Comprehensive
+2017-01-01,2017,Evento relacionado a Pandemia COVID-19...,Crise Global (Relacionado),Crise Global (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1923-01-01,1923,Descoberta da Insulina,Avanço Médico,Avanço Médico,Alto,Historical_Dataset_Comprehensive
+1998-01-01,1998,Clonagem da ovelha Dolly,Avanço Científico,Avanço Científico,Alto,Historical_Dataset_Comprehensive
+1971-01-01,1971,Acordos de Paris (Vietnã),Paz Internacional,Paz Internacional,Médio,Historical_Dataset_Comprehensive
+2019-01-01,2019,Greta Thunberg inicia Fridays for Future,Movimento Social,Movimento Social,Médio,Historical_Dataset_Comprehensive
+2003-01-01,2003,Consequências de Invasão do Iraque...,Guerra Regional (Consequências),Guerra Regional (Consequências),Médio,Historical_Dataset_Comprehensive
+1927-01-01,1927,Consequências de Penicilina (Fleming)...,Avanço Médico (Consequências),Avanço Médico (Consequências),Médio,Historical_Dataset_Comprehensive
+1926-01-01,1926,Evento relacionado a Quebra da Bolsa de N...,Crise Financeira (Relacionado),Crise Financeira (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1974-01-01,1974,Evento relacionado a Microprocessador...,Avanço Tecnológico (Relacionado),Avanço Tecnológico (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1995-01-01,1995,Evento relacionado a Tratado de Maastrich...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive
+1992-01-01,1992,Evento relacionado a Eleições na África d...,Mudança Política (Relacionado),Mudança Política (Relacionado),Baixo,Historical_Dataset_Comprehensive

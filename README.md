@@ -85,6 +85,21 @@ elif ano_pessoal == 1:
     print("Status do Sistema: Boot inicial. Instalando novos drivers.")
 ```
 
+### Análise de Dados Históricos
+```python
+from src.data_processor import NumerologyDataAnalyzer
+
+analyzer = NumerologyDataAnalyzer()
+
+# Coletar e analisar dados do Wikidata
+results = analyzer.collect_and_analyze(source='wikidata', limit=100)
+
+# Testar hipótese estatística
+hypothesis = results['hypothesis_test']
+print(f"Ano 9 tem {hypothesis['ano_9_percentage']}% dos eventos")
+print(f"Hipótese suportada: {hypothesis['hypothesis_supported']}")
+```
+
 ## Hipóteses para Teste
 
 ### Hipótese 1: Ciclos de Ruptura
